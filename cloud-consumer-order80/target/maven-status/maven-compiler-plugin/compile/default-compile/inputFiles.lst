@@ -1,0 +1,6 @@
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/cloud/config/ApplicationContextConfig.java
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/cloud/controller/OrderController.java
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/cloud/OrderMain80.java
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/cloud/lb/MyLB.java
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/cloud/lb/LoadBalancer.java
+/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-order80/src/main/java/com/example/myrule/MySelfRule.java
