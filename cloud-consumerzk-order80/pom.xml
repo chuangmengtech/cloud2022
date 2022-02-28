@@ -39,7 +39,7 @@
             </exclusions>
         </dependency>
         <dependency>
-            <groupId>org.example</groupId>
+            <groupId>com.example</groupId>
             <artifactId>cloud-api-commons</artifactId>
             <version>${project.version}</version>
         </dependency>
