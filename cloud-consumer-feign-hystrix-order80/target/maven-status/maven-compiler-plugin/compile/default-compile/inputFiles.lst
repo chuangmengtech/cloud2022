@@ -1,4 +1,0 @@
-/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/example/cloud/OrderHystrixMain80.java
-/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/example/cloud/controller/OrderHystirxController.java
-/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/example/cloud/service/PaymentHystrixService.java
-/Users/Sun/Documents/IdeaProjects/cloud2020/cloud-consumer-feign-hystrix-order80/src/main/java/com/example/cloud/service/PaymentFallbackService.java
