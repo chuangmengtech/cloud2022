@@ -4,6 +4,9 @@ server:
 spring:
   application:
     name: cloud-payment-service
+  sleuth:
+    sampler:
+      probability: 1
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: com.mysql.cj.jdbc.Driver            # mysql驱动包
@@ -24,4 +27,4 @@ eureka:
     fetch-registry: true
     service-url:
 #      defaultZone: http://127.0.0.1:7001/eureka/,http://localhost:7002/eureka/
-      defaultZone: http://127.0.0.1:7001/eureka/
+      defaultZone: http://127.0.0.1:7001/eureka

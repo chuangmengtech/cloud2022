@@ -63,4 +63,11 @@ public class OrderController {
         return restTemplate.getForObject(myLB.instance(instances).getUri() + "/payment/port", String.class);
     }
 
+    // ====================> zipkin+sleuth
+    @GetMapping("/consumer/payment/zipkin")
+    public String paymentZipkin() {
+        return restTemplate.getForObject("http://localhost:8001" + "/payment/zipkin", String.class);
+    }
 }
+
+
